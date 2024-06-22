@@ -71,7 +71,7 @@ require ('pages/conn.php');
                 <br>
                 <br>
                 <br>
-                <span class="get-started">Get started, right now!</span>
+                <span href="pages/vakanties.php" class="get-started">Get started, right now!</span>
             </p>
         </div>
 
